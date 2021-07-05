@@ -1,0 +1,33 @@
+.book-1{
+    height: 52px;
+    padding: 3px 5px;
+}
+.log-1 a:hover{
+    color: blue;
+}
+#log-2 li a:hover{
+    color: blue;
+}
+.log-3:hover{
+    text-shadow: 0px 3px 13px rgba(14, 181, 255, 0.41);
+    color: blue;
+}
+.Cardio-1{
+    display: flex;
+    width: 90%;
+    margin: auto;
+}
+.card{
+    margin: 8px 10px;
+}
+.booklogo-1{
+    width: 16%;
+    margin: 5px auto;
+    background: -webkit-linear-gradient(rgb(34, 30, 247), rgb(35, 199, 240));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.bookie{
+    height: 50px;
+    margin-bottom: 11px;
+}
