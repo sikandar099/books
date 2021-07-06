@@ -20,6 +20,13 @@
 .card{
     margin: 8px 10px;
 }
+.card-body{
+    border: 1px solid black;
+    border-radius: 5px;
+    flex: 1 1 auto;
+    padding: 1rem 1rem;
+    background: #f5f5f5;
+}
 .booklogo-1{
     width: 16%;
     margin: 5px auto;
@@ -30,4 +37,28 @@
 .bookie{
     height: 50px;
     margin-bottom: 11px;
+}
+.name-1{
+    width: 30%;
+}
+/* Gradient  */
+.gradient{
+    height: 3px;
+    background: rgb(70,233,230);
+background: linear-gradient(90deg, rgba(70,233,230,1) 13%, rgba(69,255,89,1) 50%, rgba(250,249,5,1) 81%);
+}
+.up-1{
+    width: 60%;
+    margin: 14px auto;
+    background: rgb(240,49,228);
+background: linear-gradient(90deg, rgba(240,49,228,1) 26%, rgba(68,57,255,1) 50%, rgba(5,250,191,1) 80%);
+}
+ /* Backgroud  */
+ .tip-1{
+    background: rgb(240,49,228);
+    background: linear-gradient(90deg, rgba(240,49,228,0.33565301120448177) 32%, rgba(5,250,191,0.523328081232493) 80%);
+ }
+ hr:not([size]) {
+    height: 1px;
+    margin: 0px;
 }
